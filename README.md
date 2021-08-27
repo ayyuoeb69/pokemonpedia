@@ -12,7 +12,7 @@ Hosted at https://pokemonpedia-560qiuqh3-ayyuoeb69.vercel.app/
 - React-Apollo
 
 ## Serve project
-[npm run dev]
+npm run dev
 
 ## Build project
-[npm run build]
+npm run build
